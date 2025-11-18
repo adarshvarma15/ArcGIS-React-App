@@ -5,3 +5,6 @@
 This sample demonstrates how to use the Map and Charts components from the ArcGIS Maps SDK for JavaScript in a React application.
 
 See the [Get started with npm guide](https://developers.arcgis.com/javascript/latest/get-started/#npm) for full instructions.
+
+<img width="1907" height="836" alt="image" src="https://github.com/user-attachments/assets/07092ea9-aaf6-4dc3-878f-59e22bf013f8" />
+
